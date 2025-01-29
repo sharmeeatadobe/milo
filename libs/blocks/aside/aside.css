@@ -910,7 +910,7 @@
   }
 
   .aside.notification.small .foreground.container .text .icon-area {
-    height: 40px;
+    max-height: 40px;
   }
 
   .aside.medium.split.bio .foreground.container .text .icon-area,
